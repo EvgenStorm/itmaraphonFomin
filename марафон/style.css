@@ -43,6 +43,10 @@ body{
     margin: 60px auto;
     
 }
+.cont {
+  display: flex;
+  flex-direction: row;
+}
 *,
 *::before,
 *::after {
